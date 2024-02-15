@@ -116,3 +116,7 @@ span{
     max-width: 800px;
     margin: 0 auto; 
 }
+
+body.profexp {
+    background-color:rgb(238, 248, 252);
+}
