@@ -96,22 +96,23 @@ span{
 
 /* profexp styling */
 .detail2 {
-    border: 2px solid #3498db; /* Border color */
-    border-radius: 10px; /* Rounded corners */
-    padding: 20px; /* Padding inside the border */
+    border: 2px solid #3498db; 
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 3%;
 }
 
 .detail2 h1 {
-    font-size: 40px; /* Larger font size for the heading */
-    color: #2c3e50; /* Text color */
-    margin-bottom: 20px; /* Spacing below the heading */
+    font-size: 40px; 
+    color: #2c3e50; 
+    margin-bottom: 20px; 
 }
 
 .detail2 p {
-    font-size: 20px; /* Larger font size for the paragraphs */
-    color: #34495e; /* Text color */
-    line-height: 1.6; /* Line height for better readability */
-    text-align: center; /* Center align paragraphs */
-    max-width: 800px; /* Maximum width of paragraphs */
-    margin: 0 auto; /* Center paragraphs */
+    font-size: 20px; 
+    color: #34495e; 
+    line-height: 1.6; 
+    text-align: center;
+    max-width: 800px; /
+    margin: 0 auto; 
 }
