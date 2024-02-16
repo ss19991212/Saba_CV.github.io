@@ -122,17 +122,13 @@ body.profexp {
 }
 
 .certificate-container {
-    display: flex;
+    display: block;
     justify-content: center;
     flex-wrap: wrap;
     margin-top: 50px;
 }
 
 .certificate-box {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
     margin-top: 50px;
     width: 30px;
     height: 30px;
