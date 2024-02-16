@@ -122,7 +122,10 @@ body.profexp {
 }
 
 .certificate-container {
-    
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
 }
 
 .certificate-box {
