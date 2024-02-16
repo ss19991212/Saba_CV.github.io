@@ -137,4 +137,9 @@ body.profexp {
     padding: 10px;
     box-sizing: border-box;
     flex: 0 1 50%;
+    overflow: hidden;
+}
+.certificate-box img{
+    width:  100%;
+    height: auto;
 }
