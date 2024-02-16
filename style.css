@@ -140,6 +140,7 @@ body.profexp {
     overflow: hidden;
 }
 .certificate-box img{
-    width:  100%;
+    width:  auto;
     height: auto;
+    object-fit: fill;
 }
