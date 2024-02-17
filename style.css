@@ -132,6 +132,22 @@ body.profexp {
   display: inline-block;
   border: #3498db;
 }
+.certificate-box2 {
+    display: inline-block;
+    border: #3498db;
+  }
+  .certificate-box3 {
+    display: inline-block;
+    border: #3498db;
+  }
+  .certificate-box4 {
+    display: inline-block;
+    border: #3498db;
+  }
+  .certificate-box5 {
+    display: inline-block;
+    border: #3498db;
+  }
 .certificate-box img{
     object-fit: contain;
 }
