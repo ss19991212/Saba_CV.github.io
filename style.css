@@ -138,6 +138,7 @@ body.profexp {
     position: absolute;
     top: 150px;
     justify-content: space-around;
+    z-index: 1;
 }
 
 .box {
