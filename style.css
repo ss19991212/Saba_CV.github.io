@@ -121,12 +121,6 @@ body.profexp {
     background-color:rgb(238, 248, 252);
 }
 
- {
-    display: block;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin-top: 50px;
-}
 
 .certificate-box{
   border: #3498db;
