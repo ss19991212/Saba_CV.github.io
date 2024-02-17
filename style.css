@@ -133,6 +133,12 @@ body.profexp {
     margin-bottom: 20px;
 }
 
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    top: 50%;
+}
+
 .box {
     width: 800px;
     height: 800px;
