@@ -128,14 +128,14 @@ body.profexp {
     margin-top: 50px;
 }
 
-.certificate-box1 {
+.certificate-box1 img{
   display: inline-block;
   border: #3498db;
   box-sizing: border-box;
   border: 2px solid #3498db;
   float: left;
 }
-.certificate-box2 {
+.certificate-box2 img{
     display: inline-block;
     border: #3498db;
     box-sizing: border-box;
