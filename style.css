@@ -121,34 +121,4 @@ body.profexp {
     background-color:rgb(238, 248, 252);
 }
 
-.certificate-container{
-    display: flex;
-}
 
-.certificate-box{
-  border: #3498db;
-  width: 50%;
-  border: 10px solid #3498db;
-  float: left;
-}
-.certificate-box3{
-    display: inline-block;
-    border: #3498db;
-    border: 2px solid #3498db;
-    float: right;
-  }
-  .certificate-box3 {
-    display: inline-block;
-    border: #3498db;
-  }
-  .certificate-box4 {
-    display: inline-block;
-    border: #3498db;
-  }
-  .certificate-box5 {
-    display: inline-block;
-    border: #3498db;
-  }
-.certificate-box img{
-    object-fit: contain;
-}
