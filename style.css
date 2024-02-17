@@ -131,6 +131,7 @@ body.profexp {
 .certificate-box{
   border: #3498db;
   box-sizing: border-box;
+  width: 50%;
   border: 2px solid #3498db;
   float: left;
 }
