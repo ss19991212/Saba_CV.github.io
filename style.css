@@ -135,8 +135,9 @@ body.profexp {
 
 .row2 {
     display: flex;
+    position: absolute;
+    top: 150px;
     justify-content: space-around;
-    top: 50%;
 }
 
 .box {
