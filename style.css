@@ -129,12 +129,18 @@ body.profexp {
 }
 
 .certificate-box1 {
-  display: inline-flex;
+  display: inline-block;
   border: #3498db;
+  box-sizing: border-box;
+  border: 2px solid #3498db;
+  float: left;
 }
 .certificate-box2 {
-    display: inline-flex;
+    display: inline-block;
     border: #3498db;
+    box-sizing: border-box;
+    border: 2px solid #3498db;
+    float: right;
   }
   .certificate-box3 {
     display: inline-block;
