@@ -129,6 +129,7 @@ body.profexp {
 }
 .row {
     display: flex;
+    position: relative;
     justify-content: space-around;
     margin-bottom: 20px;
 }
