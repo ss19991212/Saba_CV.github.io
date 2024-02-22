@@ -127,15 +127,17 @@ body.profexp {
     justify-content: space-between;
 }
 .image-box {
-    width: 500px;
+    width: auto;
+    max-width: 50%;
     height: 400px;
     border: 5px;
+    box-sizing: border-box;
 }
 .image-box .html-image img {
     width: 100%;
-    height: 100%;
+    height: auto;
 }
 .image-box .CSS-image img {
     width: 100%;
-    height: 100%;
+    height: auto;
 }
