@@ -123,8 +123,10 @@ body.profexp {
 
 /* Qualifications Styling */
 
-.parent {
+.parent-wrap {
+    display: -webkit-flex:flex;
     display: flex;
+    flext-wrap: wrap;
     flex-direction: row;
 }
 
@@ -147,3 +149,4 @@ body.profexp {
 .child2 img{
     object-fit: contain;
 }
+
