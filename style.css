@@ -129,17 +129,13 @@ body.profexp {
 }
 
 .child1 {
-    width: 50%;
-    height: 100vh;
+    width: 49%;
+    height: 70vh;
     border: 5px;
-    color: orange;
-    background-color: black;
 }
 
 .child2 {
-    width: 50%;
-    height: 100vh;
+    width: 49%;
+    height: 70vh;
     border: 5px;
-    color: orange;
-    background-color: black;
 }
