@@ -123,3 +123,16 @@ body.profexp {
 
 /* Qualifications Styling */
 
+.parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.child1 {
+    width: 50%;
+    height: 100vh;
+}
+
+.child2 {
+    width: 50%;
+}
