@@ -143,3 +143,7 @@ body.profexp {
     height: 70vh;
     border: 5px;
 }
+
+.child2 img{
+    object-fit: contain;
+}
