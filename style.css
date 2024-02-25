@@ -131,7 +131,7 @@ body.profexp {
     flex-wrap: wrap;
     flex-direction: row;
     align-items:center;
-    width: 98%;
+    width: 99%;
     justify-content: space-around;
     padding: 5px;
     overflow: hidden;
@@ -144,7 +144,7 @@ body.profexp {
         flex-wrap: wrap;
         flex-direction: row;
         align-items:center;
-        width: 98%;
+        width: 99%;
         justify-content: space-around;
         padding: 5px;
         overflow: hidden;
